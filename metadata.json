@@ -1,0 +1,6 @@
+{
+  "name": "TRADEZYRO",
+  "description": "Institutional-grade Crypto Intelligence Platform featuring AI Smart Money technical analysis, live global cryptocurrency markets, interactive 3D Earth Radar, breaking news, and community sentiment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
